@@ -121,51 +121,55 @@ A[Data Base: MySQL] <-->   B[Web Server : javascript]
 ## 5. Teknologi, Library, dan Framework
 
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:padding="25dp"
     tools:context=".MainActivity">
 
-    <ImageView
+    <EditText
+        android:id="@+id/inputJudul"
         android:layout_width="match_parent"
-        android:layout_height="81dp"
-        android:layout_marginBottom="25dp"
-        android:contentDescription="@string/todo"
-        android:src="@drawable/ic_logo_black" />
+        android:layout_height="wrap_content"
+        android:hint="Judul Aspirasi"
+        android:layout_margin="16dp"/>
 
-    <com.google.android.material.textfield.TextInputLayout
+    <EditText
+        android:id="@+id/inputDeskripsi"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:hint="Deskripsi Aspirasi"
+        android:layout_below="@id/inputJudul"
+        android:layout_margin="16dp"/>
 
-        <com.google.android.material.textfield.TextInputEditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:autofillHints="emailAddress"
-            android:hint="@string/email"
-            android:inputType="textEmailAddress" /> <!-- Perbaikan autofillHints -->
-    </com.google.android.material.textfield.TextInputLayout>
+    <Button
+        android:id="@+id/btnTambah"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tambah Aspirasi"
+        android:layout_below="@id/inputDeskripsi"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"/>
 
-    <com.google.android.material.textfield.TextInputLayout
+    <Button
+        android:id="@+id/btnLihat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lihat Aspirasi"
+        android:layout_below="@id/btnTambah"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"/>
+
+    <LinearLayout
+        android:id="@+id/containerAspirasi"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"> <!-- Ganti "match_parent" menjadi "wrap_content" jika memungkinkan -->
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/btnLihat"
+        android:layout_marginTop="16dp"/>
 
-        <com.google.android.material.textfield.TextInputEditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="35dp"
-            android:hint="@string/password"
-            android:inputType="textPassword" />
+</RelativeLayout>
 
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/Masuk"
-            tools:ignore="VisualLintButtonSize" />
-    </com.google.android.material.textfield.TextInputLayout>
-</LinearLayout>
 
 ## 6. Desain User Experience dan User Interface
 
