@@ -41,24 +41,24 @@ Surat AspirasiKita dirancang sebagai sarana formal yang profesional dan efektif 
 
 
 ## 1.3. Branding
-Merk : AspirasiKita
-Logo : Logo AspirasiKita didesain dengan simbol yang mencerminkan kesatuan dan keterbukaan. Mungkin terdapat elemen-elemen yang merepresentasikan tangan bersatu, membentuk puzzle bersama, atau kombinasi simbol-simbol lain yang menggambarkan kolaborasi antara masyarakat dan pemerintah. Warna yang dipilih harus bersahaja dan bersahabat.
-campaign : Meningkatkan kesadaran masyarakat tentang AspirasiKita sebagai platform untuk menyampaikan aspirasi dan keluhan kepada pemerintah, membangun partisipasi aktif, dan menciptakan perubahan positif dalam komunitas.
-Tagline : "Bersama Membangun Masa Depan AspirasiKita, Suara Kita"
-Target User : Warga Biasa:
+- Merk : AspirasiKita
+- Logo : Logo AspirasiKita didesain dengan simbol yang mencerminkan kesatuan dan keterbukaan. Mungkin terdapat elemen-elemen yang merepresentasikan tangan bersatu, membentuk puzzle bersama, atau kombinasi simbol-simbol lain yang menggambarkan kolaborasi antara masyarakat dan pemerintah. Warna yang dipilih harus bersahaja dan bersahabat.
+- campaign : Meningkatkan kesadaran masyarakat tentang AspirasiKita sebagai platform untuk menyampaikan aspirasi dan keluhan kepada pemerintah, membangun partisipasi aktif, dan menciptakan perubahan positif dalam komunitas.
+- Tagline : "Bersama Membangun Masa Depan AspirasiKita, Suara Kita"
+- Target User :
+      - Warga Biasa:
+      - Usia: 18-60 tahun.
+      - Masyarakat yang peduli dan aktif dalam isu-isu lokal.
+      - Mereka yang ingin menyampaikan aspirasi, keluhan, atau ide-ide konstruktif kepada pemerintah.
+      - Mahasiswa dan Pelajar:
+      - Usia: 16-25 tahun.
+      - Mahasiswa dan pelajar yang ingin berpartisipasi aktif dalam proses pembangunan dan merasa memiliki kontribusi yang              berarti.
+  - Pemimpin Masyarakat Lokal:
 
-Usia: 18-60 tahun.
-Masyarakat yang peduli dan aktif dalam isu-isu lokal.
-Mereka yang ingin menyampaikan aspirasi, keluhan, atau ide-ide konstruktif kepada pemerintah.
-Mahasiswa dan Pelajar:
-
-Usia: 16-25 tahun.
-Mahasiswa dan pelajar yang ingin berpartisipasi aktif dalam proses pembangunan dan merasa memiliki kontribusi yang berarti.
-Pemimpin Masyarakat Lokal:
-
-Usia: 25-60 tahun.
-Tokoh-tokoh masyarakat, pemimpin kelompok, atau anggota lembaga swadaya masyarakat yang ingin membawa aspirasi masyarakatnya kepada pemerintah.
-UI :  - Mudah dan Sederhana
+      - Usia: 25-60 tahun.
+      - Tokoh-tokoh masyarakat, pemimpin kelompok, atau anggota lembaga swadaya masyarakat yang ingin membawa aspirasi                   masyarakatnya kepada pemerintah.
+- UI :
+      - Mudah dan Sederhana
       - Warna : Biru Muda dan Hijau Terang:
 Kombinasi ini menciptakan perpaduan yang menenangkan dan segar. Biru muda memberikan kesan tenang dan keterbukaan, sementara hijau terang menambahkan elemen optimisme dan keberlanjutan.
     
@@ -120,13 +120,58 @@ A[Data Base: MySQL] <-->   B[Web Server : javascript]
 ```
 ## 5. Teknologi, Library, dan Framework
 
-bla bla bla
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="25dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="81dp"
+        android:layout_marginBottom="25dp"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/ic_logo_black" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:autofillHints="emailAddress"
+            android:hint="@string/email"
+            android:inputType="textEmailAddress" /> <!-- Perbaikan autofillHints -->
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"> <!-- Ganti "match_parent" menjadi "wrap_content" jika memungkinkan -->
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="35dp"
+            android:hint="@string/password"
+            android:inputType="textPassword" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Masuk"
+            tools:ignore="VisualLintButtonSize" />
+    </com.google.android.material.textfield.TextInputLayout>
+</LinearLayout>
 
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
-
+![poto]("C:\Users\user\Downloads\WhatsApp Image 2023-11-13 at 22.36.18_8ad1c8cc.jpg")
+![poto]:\Users\user\Downloads\WhatsApp Image 2023-11-13 at 22.29.29_37d7b3b4.jpg")
 ## 7. Demonstrasi Video
 
 Link youtube nya
