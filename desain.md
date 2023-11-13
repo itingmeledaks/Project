@@ -78,19 +78,46 @@ Admin | Saya ingin melihat laporan dan analisis data aspirasi untuk memahami tre
 Admin | Saya ingin memiliki akses penuh ke dasbor admin. | Saya dapat memonitor dan mengelola semua aspirasi dan keluhan yang masuk. | ⭐️⭐️⭐️⭐️⭐️
 
 ## 3. Struktur Data
-
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
-```mermaid
+``` mermaid
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+    PENGGUNA ||..|{  ASPIRASI : membuat
+    ASPIRASI }|--|{ ADMIN : mengelola
+    ADMIN ||--o{ PEMERINTAH :menyampaikan
+    PEMERINTAH ||--o{ FEEDBACK : memberi
+    FEEDBACK ||--o{ PENGGUNA : disampaikan
+    PENGGUNA {
+        int id_pengguna
+        string nama_pengguna
+    }
+    ASPIRASI {
+        int id_aspirasi
+        int id_aspirasi_yang_dibahas
+        int id_pengguna
+        string isi_aspirasi
+        detertime waktu_publikasi
+    }
+    ADMIN {
+        int id_pengguna
+        int id_aspirasi_yang_dibahas
+        string nama_pengguna
+        string isi_aspirasi
+    }
+    PEMERINTAH {
+        string menerima_aspirasi
+        string memikirkan_solusi
+        string memberi_feedback
+    }
+    FEEDBACK {
+        string memberi_feedback
+    }
 ```
-
 ## 4. Arsitektur Sistem
-
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
-
+``` mermaid
+flowchart TD
+A[Data Base: MySQL] <-->   B[Web Server : javascript] 
+    B <--> C[Webackend : Javasript] 
+    C <--> D[Aplikasi Android  : Java]
+```
 ## 5. Teknologi, Library, dan Framework
 
 bla bla bla
