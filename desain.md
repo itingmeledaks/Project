@@ -1,6 +1,6 @@
 ## 1.1 Latar Belakang
 
-Dalam dinamika masyarakat modern, partisipasi aktif warga negara dalam pembangunan dan pengambilan keputusan pemerintah menjadi semakin krusial. Masyarakat yang merasa memiliki saluran untuk menyampaikan aspirasi, keluhan, dan ide-ide konstruktif dapat memberikan kontribusi positif terhadap pembangunan dan perbaikan kebijakan. Namun, seringkali terdapat kesenjangan antara harapan masyarakat dan kemampuan mereka untuk menyampaikan suara mereka kepada pemerintah. Oleh karena itu, diperlukan sebuah platform inovatif yang memfasilitasi komunikasi dua arah antara pemerintah dan masyarakat.
+WeatherApp hadir sebagai solusi yang komprehensif untuk memenuhi kebutuhan informasi cuaca pengguna dengan cara yang menarik dan mudah diakses. Dengan fokus pada pengalaman pengguna yang dinamis, aplikasi ini menyajikan kondisi cuaca saat ini secara visual melalui latar belakang yang responsif. Dengan integrasi elemen seperti gradasi langit, efek hujan, dan transisi siang-malam, WeatherApp tidak hanya memberikan informasi cuaca, tetapi juga menciptakan pengalaman yang menyenangkan dan menarik. Dukungan geolokasi mempersonalisasi pengalaman pengguna dengan menyajikan informasi cuaca yang tepat sesuai dengan lokasi pengguna. Latar belakang yang dinamis dan efek interaktif bertujuan untuk menjadikan pengguna lebih terlibat dan terkoneksi dengan informasi cuaca sekitar mereka.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
