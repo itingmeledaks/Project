@@ -32,7 +32,7 @@ Pengguna |saya ingin dapat melihat perkiraan cuaca saat ini di lokasi saya secar
 Pengguna|  saya ingin dapat memasukkan lokasi kota atau koordinat geografis untuk melihat perkiraan cuaca di lokasi tersebu. | ⭐️⭐️⭐️⭐️⭐️
 Pengguna| saya ingin melihat perkiraan cuaca untuk beberapa hari ke depan agar saya dapat merencanakan aktivitas saya. | ⭐️⭐️⭐️⭐️⭐️
 Pengguna | saya ingin melihat ikon atau gambar yang mencerminkan kondisi cuaca saat ini untuk memudahkan pemahaman visual. |  | ⭐️⭐️⭐️⭐️
-Admin | Saya ingin tau berapa banyak pengguna yang menggunakan aplikasi ini. | ⭐️⭐️⭐️⭐️⭐️
+Admin | Saya ingin tau berapa banyak pengguna yang menggunakan aplikasi ini. ||sehingga bisa mengetahui perkembangan aplikasi ini.|  ⭐️⭐️⭐️⭐️⭐️
 ``` mermaid
 erDiagram
     PENGGUNA ||..|{  ASPIRASI : membuat
