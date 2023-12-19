@@ -210,7 +210,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
-
+https://huggingface.co/welcome
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
@@ -220,19 +220,142 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+Jurnal Ilmiah (Scientific Journal):
 
+Sebuah jurnal ilmiah adalah publikasi akademis yang berisi artikel-artikel penelitian yang telah melewati proses peer review. Proses ini melibatkan penilaian oleh pakar atau rekan sejawat untuk memastikan bahwa kualitas, metodologi, dan hasil penelitian telah memenuhi standar ilmiah. Jurnal ilmiah adalah sarana utama di mana penelitian-penelitian baru dan temuan-temuan ilmiah dipublikasikan. Mereka mencakup berbagai bidang ilmu, dan artikel-artikelnya dapat mencakup hasil penelitian empiris, ulasan pustaka, atau studi konseptual.
+
+Conference (Konferensi Ilmiah):
+
+Konferensi ilmiah adalah pertemuan akademis di mana penelitian-penelitian baru, ide-ide inovatif, atau temuan-temuan ilmiah dipresentasikan dan dibahas oleh para peneliti, ilmuwan, dan akademisi. Konferensi dapat bersifat lokal, nasional, atau internasional. Mereka memberikan kesempatan bagi para peneliti untuk berbagi pekerjaan mereka, mendapatkan umpan balik, dan membangun jejaring dengan sesama peneliti. Artikel-artikel yang disajikan di konferensi sering kali kemudian dipublikasikan dalam jurnal ilmiah setelah melalui proses review lebih lanjut.
+
+Artikel (Scientific Article):
+
+Artikel ilmiah adalah tulisan akademis yang merinci penelitian atau konsep tertentu. Artikel dapat ditemukan dalam jurnal ilmiah, konferensi, atau bahkan dalam bentuk buku. Mereka biasanya mencakup pendahuluan (dengan latar belakang dan tujuan penelitian), metode penelitian, hasil, pembahasan, dan kesimpulan. Artikel ilmiah harus ditulis dengan jelas dan akurat, sesuai dengan pedoman penulisan ilmiah yang berlaku.
+
+Grade Jurnal (Journal Ranking):
+
+Grade jurnal merujuk pada peringkat atau tingkat kualitas suatu jurnal ilmiah. Peringkat ini dapat ditentukan oleh berbagai faktor, termasuk dampak atau pengaruh jurnal terhadap penelitian di bidang tertentu, frekuensi kutipan artikel dari jurnal tersebut, atau metrik-metrik lainnya. Beberapa basis data atau organisasi menyediakan peringkat jurnal, seperti JCR (Journal Citation Reports), Scopus, atau Google Scholar Metrics. Grade jurnal membantu peneliti dan pembaca untuk menilai reputasi dan kualitas suatu jurnal ilmiah.
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-
+https://ieeexplore.ieee.org/xpl/conhome/10048095/proceeding
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
-
+https://www.youtube.com/watch?v=eaXRIoMg6tg
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+Seorang Data Scientist adalah seorang profesional di bidang Teknologi Informasi (IT) yang memiliki keahlian dalam menganalisis dan menginterpretasikan data kompleks. Tugas utama mereka melibatkan ekstraksi wawasan dari data untuk mendukung pengambilan keputusan bisnis. Berikut adalah deskripsi lebih rinci tentang peran seorang Data Scientist:
 
+Tanggung Jawab:
+
+Pemahaman Bisnis:
+
+Berkomunikasi dengan pemangku kepentingan bisnis untuk memahami tujuan dan tantangan bisnis yang dihadapi.
+Pemrosesan Data:
+
+Mengumpulkan, membersihkan, dan memproses data dari berbagai sumber untuk memastikan kualitas dan kegunaan data.
+Analisis Statistik:
+
+Menerapkan metode statistik dan teknik analisis data untuk mengidentifikasi pola, tren, dan wawasan dari data.
+Pemodelan Predictive dan Machine Learning:
+
+Mengembangkan model prediktif menggunakan algoritma machine learning untuk memprediksi hasil masa depan atau mengenali pola yang kompleks.
+Pengolahan Big Data:
+
+Menangani dan menganalisis dataset yang besar dan kompleks menggunakan teknologi big data seperti Hadoop dan Spark.
+Visualisasi Data:
+
+Mengkomunikasikan hasil analisis secara efektif melalui visualisasi data, seperti grafik, diagram, dan dashboard.
+Optimasi:
+
+Membuat rekomendasi dan strategi untuk meningkatkan kinerja dan efisiensi bisnis berdasarkan analisis data.
+Keamanan Data:
+
+Menjaga keamanan dan privasi data selama proses analisis dan penyimpanan.
+Pengembangan Alat dan Solusi:
+
+Mengembangkan alat atau solusi perangkat lunak khusus untuk mendukung analisis dan pemrosesan data.
+Kolaborasi Tim:
+
+Bekerja sama dengan tim lintas fungsional, termasuk ilmuwan data lainnya, analis bisnis, dan pengembang.
+Keterampilan yang Diperlukan:
+
+Pemrograman:
+
+Keterampilan pemrograman dalam bahasa seperti Python atau R.
+Statistik:
+
+Pemahaman yang kuat tentang konsep statistik dan teknik analisis data.
+Machine Learning:
+
+Keahlian dalam penerapan teknik machine learning untuk pemodelan prediktif.
+Pengolahan Data:
+
+Keterampilan dalam pengumpulan, pembersihan, dan transformasi data.
+Database:
+
+Pengalaman dalam bekerja dengan database, terutama SQL dan NoSQL.
+Alat dan Framework:
+
+Familiaritas dengan alat analisis data dan framework seperti Pandas, NumPy, TensorFlow, dan scikit-learn.
+Visualisasi:
+
+Kemampuan untuk membuat visualisasi data yang informatif menggunakan alat seperti Matplotlib, Seaborn, atau Tableau.
+Kemampuan Komunikasi:
+
+Kemampuan untuk menyampaikan temuan dan wawasan secara jelas kepada non-teknis.
+Keamanan Data:
+
+Kesadaran tentang praktik keamanan data dan privasi.
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+Software Developer / Engineer:
 
+Membuat, menguji, dan memelihara perangkat lunak atau aplikasi.
+Keterampilan yang diperlukan: Pemrograman, pengembangan perangkat lunak, pengujian.
+System Administrator:
+
+Bertanggung jawab atas pengelolaan dan pemeliharaan sistem komputer, server, dan jaringan.
+Keterampilan yang diperlukan: Administrasi sistem, pemecahan masalah, keamanan sistem.
+Network Engineer:
+
+Merancang, mengimplementasikan, dan memelihara infrastruktur jaringan.
+Keterampilan yang diperlukan: Desain jaringan, konfigurasi perangkat keras dan perangkat lunak jaringan.
+Database Administrator:
+
+Mengelola basis data, melakukan pemeliharaan, dan memastikan keamanan data.
+Keterampilan yang diperlukan: Administrasi basis data, SQL, pemecahan masalah.
+IT Project Manager:
+
+Merencanakan, mengelola, dan mengarahkan proyek IT dari awal hingga akhir.
+Keterampilan yang diperlukan: Manajemen proyek, kepemimpinan, komunikasi.
+Cybersecurity Analyst:
+
+Melindungi sistem, jaringan, dan data dari ancaman keamanan.
+Keterampilan yang diperlukan: Keamanan informasi, analisis keamanan, keamanan jaringan.
+Data Scientist:
+
+Menganalisis data untuk mendapatkan wawasan dan mendukung pengambilan keputusan.
+Keterampilan yang diperlukan: Analisis data, pemodelan statistik, pengolahan besar data.
+UI/UX Designer:
+
+Mendesain antarmuka pengguna dan pengalaman pengguna untuk aplikasi dan situs web.
+Keterampilan yang diperlukan: Desain grafis, interaksi pengguna, prototyping.
+DevOps Engineer:
+
+Mengotomatiskan proses pengembangan dan operasional untuk meningkatkan efisiensi.
+Keterampilan yang diperlukan: Otomatisasi, konfigurasi manajemen, kolaborasi tim.
+Machine Learning Engineer:
+
+Mengembangkan dan menerapkan algoritma machine learning untuk pemrosesan data.
+Keterampilan yang diperlukan: Machine learning, pemrograman, pemahaman statistik.
+Cloud Architect:
+
+Merancang dan mengelola arsitektur solusi cloud untuk organisasi.
+Keterampilan yang diperlukan: Pengelolaan cloud, arsitektur cloud, keamanan cloud.
+IT Support Specialist:
+
+Memberikan dukungan teknis kepada pengguna akhir dan menangani permasalahan teknis.
+Keterampilan yang diperlukan: Dukungan pelanggan, pemecahan masalah, pengetahuan dasar IT.
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
