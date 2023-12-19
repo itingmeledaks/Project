@@ -1,4 +1,4 @@
-# Hello Informatics !
+![image](https://github.com/itingmeledaks/Project/assets/144585885/890d2dc6-c1a9-4484-a00c-f26b4eaa4c0c)# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
@@ -242,6 +242,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+
+! [gamabr] !![Screenshot (6)](https://github.com/itingmeledaks/Project/assets/144585885/79b58893-7894-4893-b4cb-10c160729af0)
+
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
