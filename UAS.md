@@ -52,14 +52,86 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+  +-----------------------+
+  | Mulai                 |
+  +-----------------------+
+            |
+            v
+  +-----------------------+
+  | Input A               |
+  +-----------------------+
+            |
+            v
+  +-----------------------+
+  | Input B               |
+  +-----------------------+
+            |
+            v
+  +-----------------------+
+  | A - B                 |
+  +-----------------------+
+            |
+            v
+  +-----------------------+
+  | Menampilkan Hasil     |
+  +-----------------------+
+            |
+            v
+  +-----------------------+
+  | Selesai               |
+  +-----------------------+
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+! [gamabr] !![Screenshot (4)](https://github.com/itingmeledaks/Project/assets/144585885/e80bbeeb-66e6-4f15-837a-611071f21b64)
 
 Referensi [1](https://scratch.mit.edu/)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+public class BubbleSort {
+
+    // Fungsi untuk melakukan Bubble Sort
+    void bubbleSort(int arr[]) {
+        int n = arr.length;
+        for (int i = 0; i < n-1; i++) {
+            for (int j = 0; j < n-i-1; j++) {
+                // Jika elemen ke j lebih besar dari elemen ke (j+1),
+                // tukar elemen tersebut
+                if (arr[j] > arr[j+1]) {
+                    // Tukar arr[j] dan arr[j+1]
+                    int temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = temp;
+                }
+            }
+        }
+    }
+
+    // Fungsi untuk menampilkan array
+    void printArray(int arr[]) {
+        int n = arr.length;
+        for (int i = 0; i < n; ++i) {
+            System.out.print(arr[i] + " ");
+        }
+        System.out.println();
+    }
+
+    // Contoh penggunaan
+    public static void main(String args[]) {
+        BubbleSort ob = new BubbleSort();
+        int arr[] = {64, 34, 25, 12, 22, 11, 90};
+
+        System.out.println("Array sebelum diurutkan:");
+        ob.printArray(arr);
+
+        // Panggil fungsi Bubble Sort
+        ob.bubbleSort(arr);
+
+        System.out.println("Array setelah diurutkan:");
+        ob.printArray(arr);
+    }
+}
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
@@ -174,3 +246,4 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+! [gamabr] !![Screenshot (5)](https://github.com/itingmeledaks/Project/assets/144585885/0cd8cd8b-cbbd-44bf-a9f2-e469ecf2059a)
