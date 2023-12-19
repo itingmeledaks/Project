@@ -9,22 +9,14 @@ WeatherApp dibangun dengan memanfaatkan teknologi informasi terkini, menggunakan
 
 
 ## 1.3. Branding
-- Merk : AspirasiKita
-- Logo : Logo AspirasiKita didesain dengan simbol yang mencerminkan kesatuan dan keterbukaan. Mungkin terdapat elemen-elemen yang merepresentasikan tangan bersatu, membentuk puzzle bersama, atau kombinasi simbol-simbol lain yang menggambarkan kolaborasi antara masyarakat dan pemerintah. Warna yang dipilih harus bersahaja dan bersahabat.
-- campaign : Meningkatkan kesadaran masyarakat tentang AspirasiKita sebagai platform untuk menyampaikan aspirasi dan keluhan kepada pemerintah, membangun partisipasi aktif, dan menciptakan perubahan positif dalam komunitas.
-- Tagline : "Bersama Membangun Masa Depan AspirasiKita, Suara Kita"
+- Merk : WeatherApp
+- Logo : Desain logo yang sederhana dan bersih dengan elemen seperti matahari, awan, dan tetes air dapat memberikan kesan tentang informasi cuaca yang jelas dan mudah dimengerti.
+- Tagline : "Beyond the Forecast"
 - Target User :
       - Warga Biasa:
       - Usia: 18-60 tahun.
-      - Masyarakat yang peduli dan aktif dalam isu-isu lokal.
-      - Mereka yang ingin menyampaikan aspirasi, keluhan, atau ide-ide konstruktif kepada pemerintah.
-      - Mahasiswa dan Pelajar:
-      - Usia: 16-25 tahun.
-      - Mahasiswa dan pelajar yang ingin berpartisipasi aktif dalam proses pembangunan dan merasa memiliki kontribusi yang              berarti.
-  - Pemimpin Masyarakat Lokal:
-
-      - Usia: 25-60 tahun.
-      - Tokoh-tokoh masyarakat, pemimpin kelompok, atau anggota lembaga swadaya masyarakat yang ingin membawa aspirasi                   masyarakatnya kepada pemerintah.
+      - Masyarakat yang peduli dengan cuaca setiap hari.
+      - Mereka yang ingin mengetahui cuaca/suhu setiap hari.
 - UI :
       - Mudah dan Sederhana
       - Warna : Biru Muda dan Hijau Terang:
@@ -36,16 +28,11 @@ Tahap ini menjelaskan tentang prioritas antara Admin, Pekerja dan Customer untuk
 
 Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|------|------|---
-Pengguna |Ingin dapat membuat akun dengan mudah. | bisa mulai menyampaikan aspirasi dan keluhan saya kepada pemerintah. |⭐️⭐️⭐️⭐️⭐️  | ⭐️⭐️⭐️⭐️⭐️
-Pengguna| Saya ingin mengisi formulir aspirasi dengan detail. | pemerintah dapat memahami isu saya dengan jelas. | ⭐️⭐️⭐️⭐️⭐️
-Pengguna| ingin menerima pembaruan tentang status dan tanggapan terhadap aspirasi saya. | agar saya tahu bahwa suara saya didengar dan diperhatikan. | ⭐️⭐️⭐️⭐️⭐️
-Pengguna | ingin dapat bergabung dalam forum atau ruang diskusi untuk berbicara. | agar masyarakat tau tentang isu isu tertentu. | ⭐️⭐️⭐️⭐️
-Admin | Saya ingin dapat melihat laporan dan analisis data aspirasi untuk mendukung pengambilan keputusan dan perencanaan kebijakan. | Bisa mengetahui aspirasi dan keluhan masyarakat. | ⭐️⭐️⭐️⭐️⭐️
-Admin | ingin memberikan tanggapan langsung kepada pengguna yang menyampaikan aspirasi. | mereka merasa dihargai dan terhubung dengan pemerintah. | ⭐️⭐️⭐️⭐️⭐️
-Admin | Saya ingin melihat laporan dan analisis data aspirasi untuk memahami tren, kebutuhan, dan prioritas masyarakat. | Bisa melihat statistik data aspirasi. | ⭐️⭐️⭐️⭐️⭐️
-Admin | Saya ingin memiliki akses penuh ke dasbor admin. | Saya dapat memonitor dan mengelola semua aspirasi dan keluhan yang masuk. | ⭐️⭐️⭐️⭐️⭐️
-
-## 3. Struktur Data
+Pengguna |saya ingin dapat melihat perkiraan cuaca saat ini di lokasi saya secara langsung pada halaman utama aplikasi. |⭐️⭐️⭐️⭐️⭐️  | ⭐️⭐️⭐️⭐️⭐️
+Pengguna|  saya ingin dapat memasukkan lokasi kota atau koordinat geografis untuk melihat perkiraan cuaca di lokasi tersebu. | ⭐️⭐️⭐️⭐️⭐️
+Pengguna| saya ingin melihat perkiraan cuaca untuk beberapa hari ke depan agar saya dapat merencanakan aktivitas saya. | ⭐️⭐️⭐️⭐️⭐️
+Pengguna | saya ingin melihat ikon atau gambar yang mencerminkan kondisi cuaca saat ini untuk memudahkan pemahaman visual. |  | ⭐️⭐️⭐️⭐️
+Admin | Saya ingin tau berapa banyak pengguna yang menggunakan aplikasi ini. | ⭐️⭐️⭐️⭐️⭐️
 ``` mermaid
 erDiagram
     PENGGUNA ||..|{  ASPIRASI : membuat
