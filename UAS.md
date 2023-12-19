@@ -2,8 +2,43 @@
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
-## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+Computational Thinking adalah suatu pendekatan pemikiran yang melibatkan pemecahan masalah dan pemikiran kritis berdasarkan konsep dan metode yang digunakan oleh ilmu komputer. Ini melibatkan serangkaian keterampilan dan konsep yang dapat diterapkan pada berbagai bidang dan masalah. Beberapa elemen kunci dari Computational Thinking melibatkan:
 
+Pemecahan Masalah (Problem Solving): Memecahkan masalah dengan merinci langkah-langkah logis untuk mencapai solusi. Ini melibatkan pengidentifikasian masalah, analisis, dan pengembangan rencana untuk menyelesaikan masalah tersebut.
+
+Penguraian (Decomposition): Memecah masalah besar menjadi masalah-masalah kecil yang lebih mudah dikelola. Ini membantu dalam mengatasi kompleksitas dan membuat pemecahan masalah lebih terkelola.
+
+Pola Pengenalan (Pattern Recognition): Mengidentifikasi pola-pola yang mungkin ada dalam masalah atau data. Ini membantu dalam membuat prediksi, memahami hubungan antara elemen-elemen, dan merinci struktur masalah.
+
+Abstraksi: Menyederhanakan masalah atau sistem dengan mengabaikan detail yang tidak perlu untuk memahami inti dari masalah tersebut. Ini membantu dalam membuat model atau representasi yang lebih mudah dipahami.
+
+Algoritma: Membuat langkah-langkah yang jelas dan terurut untuk menyelesaikan masalah atau mencapai tujuan. Algoritma adalah panduan langkah demi langkah yang dapat dijalankan oleh komputer atau manusia.
+
+Logika (Logic): Menggunakan logika untuk mengevaluasi solusi-solusi yang mungkin dan memastikan bahwa mereka benar dan konsisten. Logika adalah dasar dari proses pengambilan keputusan.
+
+Pengoptimalan (Optimization): Mencari cara untuk meningkatkan kinerja dan efisiensi solusi yang dihasilkan. Ini melibatkan penyesuaian dan perbaikan berkelanjutan.
+
+Menginternalisasi Computational Thinking berarti mengembangkan kemampuan untuk berpikir seperti seorang pemrogram komputer atau ilmuwan komputer dalam merespon berbagai masalah di kehidupan sehari-hari. Ini bukan hanya tentang pemahaman konsep teknis, tetapi juga tentang mengembangkan kemampuan berpikir kritis, kreativitas, dan cara melihat masalah sebagai tantangan yang dapat dipecahkan dengan menggunakan prinsip-prinsip ilmu komputer.
+
+Penting untuk diingat bahwa Computational Thinking dapat diterapkan di banyak bidang, tidak hanya dalam konteks pemrograman atau ilmu komputer. Ini adalah keterampilan inti yang dapat meningkatkan kemampuan berpikir dan pemecahan masalah pada berbagai profesi dan kehidupan sehari-hari.
+## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+Mesin komputasi adalah perangkat keras yang dirancang untuk melakukan operasi pengolahan data dan eksekusi instruksi. Berikut adalah beberapa jenis mesin komputasi yang umum digunakan:
+
+Komputer Pribadi (Personal Computer - PC): Merupakan jenis mesin komputasi yang umum digunakan oleh individu untuk keperluan pribadi dan pekerjaan. PC biasanya terdiri dari unit pusat pemrosesan (CPU), monitor, keyboard, dan mouse.
+
+Server: Mesin komputasi ini dirancang untuk menyimpan, mengelola, dan menyediakan akses ke sumber daya komputasi dan data untuk klien atau pengguna lain di jaringan. Server dapat berfungsi sebagai server web, server database, atau server aplikasi, tergantung pada kebutuhan spesifik.
+
+Mainframe: Mainframe adalah mesin komputasi berukuran besar yang dirancang untuk menangani volume data dan operasi komputasi yang sangat besar. Mereka biasanya digunakan oleh organisasi besar untuk pemrosesan transaksi bisnis dan komputasi skala besar.
+
+Superkomputer: Superkomputer adalah mesin komputasi paling kuat dan cepat yang dirancang untuk menangani tugas-tugas komputasi yang sangat kompleks dan membutuhkan daya komputasi yang sangat tinggi. Superkomputer sering digunakan dalam penelitian ilmiah, simulasi cuaca, dan pemodelan fisika yang kompleks.
+
+Konsol Game: Meskipun dirancang untuk permainan, konsol game seperti PlayStation atau Xbox sebenarnya adalah bentuk mesin komputasi. Mereka dilengkapi dengan unit pemrosesan dan grafis yang mampu menjalankan permainan yang rumit.
+
+Embedded Systems (Sistem Tertanam): Mesin komputasi ini terintegrasi dalam perangkat atau sistem lain dan dirancang untuk melakukan fungsi tertentu. Contohnya termasuk mikrokontroler dalam perangkat elektronik rumah tangga, mobil, atau perangkat medis.
+
+Komputer Tablet dan Smartphone: Meskipun ukurannya lebih kecil, tablet dan smartphone memiliki kemampuan komputasi yang signifikan. Mereka memiliki CPU, memori, dan sistem operasi yang memungkinkan pengguna untuk menjalankan aplikasi dan melakukan berbagai tugas komputasi.
+
+Komputer Kuantum: Mesin komputasi yang menggunakan prinsip-prinsip fisika kuantum untuk melakukan operasi komputasi. Komputer kuantum memiliki potensi untuk mengatasi masalah yang sulit atau bahkan tidak mungkin diselesaikan oleh komputer klasik saat ini.
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 ## Mencoba Console Sistem Operasi
