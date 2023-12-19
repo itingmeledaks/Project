@@ -42,8 +42,10 @@ Komputer Kuantum: Mesin komputasi yang menggunakan prinsip-prinsip fisika kuantu
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 ## Mencoba Console Sistem Operasi
+! [gamabr] ![Screenshot (1)](https://github.com/itingmeledaks/Project/assets/144585885/5f12232d-d31b-47ab-9687-c2c42abf345d)
 
 ### Windows CMD [v] ⭐⭐⭐⭐
+! [gamabr] !![Screenshot (3)](https://github.com/itingmeledaks/Project/assets/144585885/f4861d15-1ff6-45cd-ab9c-66432ca20421)
 
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
