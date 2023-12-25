@@ -207,15 +207,88 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+| Bulan   | Penjualan |
+|---------|-----------|
+| Januari | 100       |
+| Februari| 150       |
+| Maret   | 200       |
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Contoh data
+x = np.linspace(0, 10, 100)  # Membuat array dari 0 hingga 10 dengan 100 nilai
+y1 = np.sin(x)
+y2 = np.cos(x)
+
+# Membuat plot garis
+plt.plot(x, y1, label='sin(x)')
+plt.plot(x, y2, label='cos(x)')
+
+# Menambahkan label pada sumbu dan judul grafik
+plt.xlabel('X-axis')
+plt.ylabel('Y-axis')
+plt.title('Plot of sin(x) and cos(x)')
+
+# Menambahkan legenda
+plt.legend()
+
+# Menampilkan plot
+plt.show()
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 https://huggingface.co/welcome
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-25 231301" src="https://github.com/itingmeledaks/Project/assets/144585885/ce690236-38a2-461d-b6cf-41197fcfafac">
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+import paho.mqtt.client as mqtt
+import time
 
+# Fungsi callback saat koneksi berhasil
+def on_connect(client, userdata, flags, rc):
+    print(f"Connected with result code {rc}")
+    client.publish("suhu", "22.5")
+
+# Inisialisasi client
+client = mqtt.Client()
+
+# Menentukan callback fungsi on_connect
+client.on_connect = on_connect
+
+# Menghubungkan ke broker (gantilah <broker_address> sesuai dengan alamat broker)
+client.connect("<broker_address>", 1883, 60)
+
+# Loop utama client
+client.loop_start()
+
+# Menunggu sebentar sebelum menerbitkan pesan
+time.sleep(2)
+
+# Tutup koneksi
+client.disconnect()
+import paho.mqtt.client as mqtt
+
+# Fungsi callback saat menerima pesan
+def on_message(client, userdata, msg):
+    print(f"Received message on topic {msg.topic}: {msg.payload.decode()}")
+
+# Inisialisasi client
+client = mqtt.Client()
+
+# Menentukan callback fungsi on_message
+client.on_message = on_message
+
+# Menghubungkan ke broker (gantilah <broker_address> sesuai dengan alamat broker)
+client.connect("<broker_address>", 1883, 60)
+
+# Berlangganan ke topik "suhu"
+client.subscribe("suhu")
+
+# Loop utama client
+client.loop_forever()
+inilah contohnya
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
@@ -305,9 +378,10 @@ Keamanan Data:
 
 Kesadaran tentang praktik keamanan data dan privasi.
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-25 231030" src="https://github.com/itingmeledaks/Project/assets/144585885/3b0faa3e-72c8-4c71-afcb-6bf38ec17545">
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
-
+https://www.hellotalk.com/partners/English-Language-Exchange?lang=en
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 Software Developer / Engineer:
 
@@ -358,12 +432,17 @@ IT Support Specialist:
 Memberikan dukungan teknis kepada pengguna akhir dan menangani permasalahan teknis.
 Keterampilan yang diperlukan: Dukungan pelanggan, pemecahan masalah, pengetahuan dasar IT.
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-
+Freelance di Bidang Web Developer
+Freelance di Bidang Android Developer
+Freelance di Bidang Business Analyst
+Animator
+Design Grafis
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-
+https://roadmap.sh/ai-data-scientist
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
-
+https://github.com/search?q=java&type=repositories
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-25 225756" src="https://github.com/itingmeledaks/Project/assets/144585885/ad545566-311a-4570-a0f1-a0d9fe7dd28f">
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
