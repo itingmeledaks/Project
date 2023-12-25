@@ -53,32 +53,32 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
   +-----------------------+
-  | Mulai                 |
+  | Ujang                 |
   +-----------------------+
             |
             v
   +-----------------------+
-  | Input A               |
+  | Kasep bgt             |
   +-----------------------+
             |
             v
   +-----------------------+
-  | Input B               |
+  | bgt bgt               |
   +-----------------------+
             |
             v
   +-----------------------+
-  | A - B                 |
+  | kasep + bgt           |
   +-----------------------+
             |
             v
   +-----------------------+
-  | Menampilkan Hasil     |
+  | Mirip Zayn Malik      |
   +-----------------------+
             |
             v
   +-----------------------+
-  | Selesai               |
+  | dah gitu aja          |
   +-----------------------+
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
@@ -136,6 +136,7 @@ public class BubbleSort {
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+! [gamabr] ! <img width="960" alt="Screenshot 2023-12-25 223944" src="https://github.com/itingmeledaks/Project/assets/144585885/774ee3d6-ddce-4302-845e-cbea87a66f2d">
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
