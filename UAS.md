@@ -50,6 +50,7 @@ Komputer Kuantum: Mesin komputasi yang menggunakan prinsip-prinsip fisika kuantu
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-26 113310" src="https://github.com/itingmeledaks/Project/assets/144585885/00541853-8ab1-4144-a9dc-f85b291b836f">
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
   +-----------------------+
