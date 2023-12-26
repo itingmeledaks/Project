@@ -40,6 +40,7 @@ Komputer Tablet dan Smartphone: Meskipun ukurannya lebih kecil, tablet dan smart
 
 Komputer Kuantum: Mesin komputasi yang menggunakan prinsip-prinsip fisika kuantum untuk melakukan operasi komputasi. Komputer kuantum memiliki potensi untuk mengatasi masalah yang sulit atau bahkan tidak mungkin diselesaikan oleh komputer klasik saat ini.
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-26 112522" src="https://github.com/itingmeledaks/Project/assets/144585885/df3e61c8-9f95-4b1f-9e0a-a6d4f3015c2a">
 
 ## Mencoba Console Sistem Operasi
 ! [gamabr] ![Screenshot (1)](https://github.com/itingmeledaks/Project/assets/144585885/5f12232d-d31b-47ab-9687-c2c42abf345d)
