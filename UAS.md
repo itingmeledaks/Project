@@ -168,6 +168,11 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-26 174851" src="https://github.com/itingmeledaks/Project/assets/144585885/1ad3013d-db81-4b6e-83f8-9599fe949deb">
+
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-26 175047" src="https://github.com/itingmeledaks/Project/assets/144585885/8b4abd12-1e32-46ac-8c22-beab40befdba">
+
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-26 175111" src="https://github.com/itingmeledaks/Project/assets/144585885/75a764bc-27a4-4940-9985-0390d0a5d2ac">
 
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
