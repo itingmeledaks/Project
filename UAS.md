@@ -298,6 +298,8 @@ inilah contohnya
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-26 151921" src="https://github.com/itingmeledaks/Project/assets/144585885/30e3e9a6-6c50-4ce7-a740-081b60d6741c">
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-26 151947" src="https://github.com/itingmeledaks/Project/assets/144585885/abac7d56-8956-4a27-a7a7-cabd9ded5e64">
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 Jurnal Ilmiah (Scientific Journal):
@@ -456,6 +458,7 @@ https://github.com/search?q=java&type=repositories
 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-26 145553" src="https://github.com/itingmeledaks/Project/assets/144585885/a501ca4a-e0c3-44de-b555-fc9170dec2f4">
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 ! [gamabr] !![Screenshot (5)](https://github.com/itingmeledaks/Project/assets/144585885/0cd8cd8b-cbbd-44bf-a9f2-e469ecf2059a)
