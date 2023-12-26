@@ -163,6 +163,7 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-26 114059" src="https://github.com/itingmeledaks/Project/assets/144585885/6d5fcd91-2145-4824-a3b3-9ab5ce89e95a">
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
@@ -174,6 +175,109 @@ Referensi tutorial
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+ Buat Halaman Web:
+Buat halaman web menggunakan HTML, CSS, dan JavaScript. Pastikan konten halaman web Anda relevan dan informatif.
+2. Optimalkan Title Tag:
+Gunakan tag <title> untuk memberikan judul yang relevan dan menarik.
+
+html
+Copy code
+<head>
+    <title>Halaman Web Saya - Tips SEO</title>
+</head>
+3. Tambahkan Meta Description:
+Tambahkan tag <meta> dengan deskripsi singkat dan menarik.
+
+html
+Copy code
+<head>
+    <meta name="description" content="Tips SEO untuk meningkatkan visibilitas halaman web Anda.">
+</head>
+4. Gunakan Header Tags dengan Bijak:
+Gunakan tag heading (<h1>, <h2>, dst.) secara hierarkis untuk menunjukkan struktur konten halaman.
+
+html
+Copy code
+<body>
+    <h1>Tips SEO untuk Halaman Web</h1>
+    <p>Isi konten halaman...</p>
+    <h2>Optimalkan Judul dan Deskripsi</h2>
+    <p>Isi subjudul...</p>
+</body>
+5. Optimalkan URL:
+Gunakan URL yang deskriptif.
+
+html
+Copy code
+<body>
+    <a href="/tips-seo">Baca Tips SEO</a>
+</body>
+6. Tambahkan Atribut Alt pada Gambar:
+Tambahkan atribut alt pada tag gambar.
+
+html
+Copy code
+<img src="gambar.jpg" alt="Deskripsi Gambar SEO">
+7. Tambahkan Tautan Internal dan Eksternal:
+Gunakan tautan internal dan eksternal yang relevan.
+
+html
+Copy code
+<body>
+    <a href="/halaman-lain">Tautan Internal</a>
+    <a href="https://www.situs-luar.com" target="_blank">Tautan Eksternal</a>
+</body>
+8. Tambahkan XML Sitemap dan Robots.txt:
+Tambahkan XML sitemap dan file robots.txt pada situs Anda.
+
+html
+Copy code
+<head>
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml">
+    <link rel="robots" type="text/plain" href="/robots.txt">
+</head>
+9. Optimalkan Struktur Tabel (Jika Digunakan):
+Jika menggunakan tabel, gunakan elemen <thead>, <tbody>, dan <tfoot>.
+
+html
+Copy code
+<table>
+    <thead>
+        <tr>
+            <th>Judul Kolom 1</th>
+            <th>Judul Kolom 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Data 1</td>
+            <td>Data 2</td>
+        </tr>
+    </tbody>
+</table>
+10. Pastikan Mobile Responsiveness:
+php
+Copy code
+- Pastikan halaman web responsif terhadap perangkat seluler.
+
+ ```html
+ <head>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ </head>
+ ```
+11. Uji dan Pantau Kinerja:
+diff
+Copy code
+- Buka halaman web Anda di berbagai browser dan perangkat untuk memastikan tampilan yang baik.
+- Pantau kinerja halaman web menggunakan alat seperti Google Analytics dan Google Search Console.
+12. Perbarui dan Tingkatkan:
+diff
+Copy code
+- Terus perbarui konten dan strategi SEO Anda berdasarkan analisis dan perubahan dalam algoritma mesin pencari.
+13. Backlinking (Opsional):
+diff
+Copy code
+- - Membangun backlink dari situs berkualitas tinggi dapat membantu meningkatkan otoritas halaman web Anda. Pastikan backlink berasal dari sumber yang relevan dan dapat dipercaya.
 
 Referensi []
 
