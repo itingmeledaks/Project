@@ -159,7 +159,25 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+https://www.example.com:8080/path/to/resource?param1=value1&param2=value2#fragment
+Protokol (Scheme):
 
+Protokol dalam contoh di atas adalah "https". Protokol menentukan bagaimana data akan ditransfer. Contoh protokol lainnya termasuk "http", "ftp", "mailto", dll.
+Nama Host:
+
+Nama host dalam contoh ini adalah "www.example.com". Ini menunjukkan alamat server tempat sumber daya di-host.
+Nomor Port:
+
+Nomor port adalah angka setelah nama host, dalam contoh ini ":8080". Port adalah pintu masuk ke server untuk berkomunikasi. Jika tidak disediakan, nilai default untuk protokol yang digunakan akan digunakan (misalnya, 80 untuk HTTP, 443 untuk HTTPS).
+Path:
+
+Path adalah bagian yang mengidentifikasi lokasi sumber daya di server. Dalam contoh ini, path adalah "/path/to/resource".
+Parameter Query:
+
+Parameter query dimulai setelah tanda tanya (?) dan dapat berisi parameter atau argumen tambahan yang dibutuhkan oleh server. Dalam contoh ini, query parameter adalah "param1=value1&param2=value2".
+Fragment/Bookmark:
+
+Bagian fragment dimulai setelah tanda pagar (#) dan biasanya digunakan untuk menunjukkan bagian tertentu dari sumber daya yang diakses. Dalam contoh ini, fragment adalah "fragment".
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
