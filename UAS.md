@@ -141,14 +141,16 @@ public class BubbleSort {
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 ! [gamabr] ! <img width="960" alt="Screenshot 2023-12-25 223944" src="https://github.com/itingmeledaks/Project/assets/144585885/774ee3d6-ddce-4302-845e-cbea87a66f2d">
 
-## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser (diganti dengan hackerrank) ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v]/diganti chalenge hackerrank ⭐⭐⭐
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-29 211011" src="https://github.com/itingmeledaks/Project/assets/144585885/3e68e995-b3d0-48fb-952e-2e2c87d0dabc">
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+! [gambar] !<img width="960" alt="Screenshot 2023-12-29 205555" src="https://github.com/itingmeledaks/Project/assets/144585885/21a15450-a77c-405f-82a5-171ba2156f53">
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
