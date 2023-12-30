@@ -241,6 +241,7 @@ saya telah mengedit konten multimedia menggunakan CAPPCUT dan ini hasilnya  ! [g
 ![gambar]!<img width="960" alt="Screenshot 2023-12-30 153258" src="https://github.com/itingmeledaks/Project/assets/144585885/13a46dd9-8ac2-4fcc-91c2-7a730f6984fe">
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+ ! [gamabr] !![ohh](https://github.com/itingmeledaks/Project/assets/144585885/d2723bec-aadc-4b94-b483-69e5e96a6c25)
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
  ! [gamabr] !<img width="960" alt="Screenshot 2023-12-26 121004" src="https://github.com/itingmeledaks/Project/assets/144585885/4ed3bd51-172f-4c41-801f-df517a6cd80f">
