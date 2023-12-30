@@ -1,4 +1,3 @@
-![image](https://github.com/itingmeledaks/Project/assets/144585885/890d2dc6-c1a9-4484-a00c-f26b4eaa4c0c)# Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
@@ -231,7 +230,8 @@ https://nugrahafirmanadi9.wordpress.com/2023/12/19/pentingnya-keseimbangan-agama
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 saya talah menggunakan konten multimedia dengan platform capcut
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-saya telah mengedit konten multimedia menggunakan CAPPCUT dan ini hasilnya "C:\Users\user\OneDrive\Pictures\jj.mp4"
+saya telah mengedit konten multimedia menggunakan CAPPCUT dan ini hasilnya  ! [gamabr] !<img width="960" alt="Screenshot 2023-12-30 155659" src="https://github.com/itingmeledaks/Project/assets/144585885/4827ab50-1a74-4dd4-b296-c87ae9d2d2e1">
+
 
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
