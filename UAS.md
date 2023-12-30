@@ -229,12 +229,16 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 https://nugrahafirmanadi9.wordpress.com/2023/12/19/pentingnya-keseimbangan-agama-dengan-kehidupan-dunia/
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-
+saya talah menggunakan konten multimedia dengan platform capcut
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-https://imgupscaler.media.io/app/upscaler
+saya telah mengedit konten multimedia menggunakan CAPPCUT dan ini hasilnya "C:\Users\user\OneDrive\Pictures\jj.mp4"
+
+
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+ ! [gamabr] !<img width="960" alt="Screenshot 2023-12-30 155434" src="https://github.com/itingmeledaks/Project/assets/144585885/9fd8b06b-385e-40d0-97bb-c93ac09e46d5">
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+![gambar]!<img width="960" alt="Screenshot 2023-12-30 153258" src="https://github.com/itingmeledaks/Project/assets/144585885/13a46dd9-8ac2-4fcc-91c2-7a730f6984fe">
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
