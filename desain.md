@@ -34,37 +34,11 @@ Pengguna| saya ingin melihat perkiraan cuaca untuk beberapa hari ke depan agar s
 Pengguna | saya ingin melihat ikon atau gambar yang mencerminkan kondisi cuaca saat ini untuk memudahkan pemahaman visual. |  | ⭐️⭐️⭐️⭐️
 Admin | Saya ingin tau berapa banyak pengguna yang menggunakan aplikasi ini. |  |⭐️⭐️⭐️⭐️⭐️|
 ``` mermaid
-erDiagram
-    PENGGUNA ||..|{  ASPIRASI : membuat
-    ASPIRASI }|--|{ ADMIN : mengelola
-    ADMIN ||--o{ PEMERINTAH :menyampaikan
-    PEMERINTAH ||--o{ FEEDBACK : memberi
-    FEEDBACK ||--o{ PENGGUNA : disampaikan
-    PENGGUNA {
-        int id_pengguna
-        string nama_pengguna
-    }
-    ASPIRASI {
-        int id_aspirasi
-        int id_aspirasi_yang_dibahas
-        int id_pengguna
-        string isi_aspirasi
-        detertime waktu_publikasi
-    }
-    ADMIN {
-        int id_pengguna
-        int id_aspirasi_yang_dibahas
-        string nama_pengguna
-        string isi_aspirasi
-    }
-    PEMERINTAH {
-        string menerima_aspirasi
-        string memikirkan_solusi
-        string memberi_feedback
-    }
-    FEEDBACK {
-        string memberi_feedback
-    }
+A[Pengguna] -->|Email| B(Username)
+    B --> C{Admin}
+    C -->|One| D[Admin 1]
+    C -->|Two| E[Admin 2]
+    C -->|Three| F[Admin 3]
 ```
 ## 4. Arsitektur Sistem
 ``` mermaid
