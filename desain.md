@@ -82,49 +82,35 @@ A[Data Base: MySQL] <-->   B[Web Server : javascript]
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <EditText
-        android:id="@+id/inputJudul"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Judul Aspirasi"
-        android:layout_margin="16dp"/>
+   import axios from "axios";
+import { apiKey } from "../constants";
 
-    <EditText
-        android:id="@+id/inputDeskripsi"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Deskripsi Aspirasi"
-        android:layout_below="@id/inputJudul"
-        android:layout_margin="16dp"/>
+const forecastEndpoint = params=> `https://api.weatherapi.com/v1/forecast.json?key=${apiKey}&q=${params.cityName}&days=${params.days}`;
+const locationsEndpoint = params=> `https://api.weatherapi.com/v1/search.json?key=${apiKey}&q=${params.cityName}`;
+const apiCall = async (endpoint)=>{
+    const options = {
+        method: 'GET',
+        url: endpoint,
+    };
 
-    <Button
-        android:id="@+id/btnTambah"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Tambah Aspirasi"
-        android:layout_below="@id/inputDeskripsi"
-        android:layout_marginTop="16dp"
-        android:layout_marginStart="16dp"/>
+      try{
+        const response = await axios.request(options);
+        return response.data;
+      }catch(error){
+        console.log('error: ',error);
+        return {};
+    }
+}
 
-    <Button
-        android:id="@+id/btnLihat"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Lihat Aspirasi"
-        android:layout_below="@id/btnTambah"
-        android:layout_marginTop="16dp"
-        android:layout_marginStart="16dp"/>
+export const fetchWeatherForecast = params=>{
+    let forecastUrl = forecastEndpoint(params);
+    return apiCall(forecastUrl);
+}
 
-    <LinearLayout
-        android:id="@+id/containerAspirasi"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:layout_below="@id/btnLihat"
-        android:layout_marginTop="16dp"/>
-
-</RelativeLayout>
-
+export const fetchLocations = params=>{
+    let locationsUrl = locationsEndpoint(params);
+    return apiCall(locationsUrl);
+}
 
 ## 6. Desain User Experience dan User Interface
 
