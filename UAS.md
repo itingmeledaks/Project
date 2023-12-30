@@ -142,6 +142,7 @@ public class BubbleSort {
 ! [gamabr] ! <img width="960" alt="Screenshot 2023-12-25 223944" src="https://github.com/itingmeledaks/Project/assets/144585885/774ee3d6-ddce-4302-845e-cbea87a66f2d">
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser (diganti dengan hackerrank) ⭐⭐⭐⭐⭐
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-30 150410" src="https://github.com/itingmeledaks/Project/assets/144585885/f3b69b07-0656-4c03-a441-3500c7db4ad8">
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v]/diganti chalenge hackerrank ⭐⭐⭐
 ! [gamabr] !<img width="960" alt="Screenshot 2023-12-29 211011" src="https://github.com/itingmeledaks/Project/assets/144585885/3e68e995-b3d0-48fb-952e-2e2c87d0dabc">
@@ -200,20 +201,25 @@ Referensi tutorial
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
- 
-Referensi []
+ ![gambar]!<img width="960" alt="Screenshot 2023-12-30 140601" src="https://github.com/itingmeledaks/Project/assets/144585885/4c6051c8-1a83-4bb4-878d-8ae4b1b1ad2b">
+ ![gambar]!<img width="960" alt="Screenshot 2023-12-30 140627" src="https://github.com/itingmeledaks/Project/assets/144585885/d7052d5c-09c0-465e-9d54-d0ff567200a8">
+
+Referensi [mas ozan]
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
     ! [gamabr] !<img width="960" alt="Screenshot 2023-12-26 120050" src="https://github.com/itingmeledaks/Project/assets/144585885/d942baed-7c72-423a-bf54-f52e38e791bf">
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
+https://firmanoop.000webhostapp.com/
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+![gambar]!![web service](https://github.com/itingmeledaks/Project/assets/144585885/5d0bde20-52cb-43be-928b-102d1c5003e1)
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+![gambar]!<img width="960" alt="Screenshot 2023-12-30 143542" src="https://github.com/itingmeledaks/Project/assets/144585885/15133b40-79a4-4228-ab77-fcd6d884c21d">
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+![gambar]!<img width="960" alt="Screenshot 2023-12-30 143714" src="https://github.com/itingmeledaks/Project/assets/144585885/c611c513-8681-4f90-83d7-bef7940ef426">
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
@@ -236,6 +242,7 @@ https://imgupscaler.media.io/app/upscaler
  ! [gamabr] !<img width="960" alt="Screenshot 2023-12-26 121004" src="https://github.com/itingmeledaks/Project/assets/144585885/4ed3bd51-172f-4c41-801f-df517a6cd80f">
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-30 145135" src="https://github.com/itingmeledaks/Project/assets/144585885/9e255683-33fe-41bd-a318-aa43bcfaa5d6">
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 | Bulan   | Penjualan |
@@ -321,6 +328,7 @@ client.subscribe("suhu")
 client.loop_forever()
 inilah contohnya
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+! [gamabr] !<img width="960" alt="Screenshot 2023-12-30 145002" src="https://github.com/itingmeledaks/Project/assets/144585885/c6cf2984-8cf8-4804-9f8c-714e6766e9a5">
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 ! [gamabr] !<img width="960" alt="Screenshot 2023-12-26 151921" src="https://github.com/itingmeledaks/Project/assets/144585885/30e3e9a6-6c50-4ce7-a740-081b60d6741c">
